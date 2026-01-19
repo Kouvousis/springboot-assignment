@@ -24,6 +24,17 @@ A REST API built with Spring Boot that provides user authentication using JWT to
 - `jjwt-api`, `jjwt-impl`, `jjwt-jackson` - JWT token generation and validation
 - `lombok` - Code generation for getters, setters, constructors
 
+## Git Repository Setup
+
+### Cloning the Repository
+
+If you received this project as a Git repository, clone it using:
+
+```bash
+git clone 
+cd qnr-assignment
+```
+
 ## Prerequisites
 
 Before running this application, ensure you have the following installed:
